@@ -49,5 +49,5 @@
 # td = datetime.timedelta(days=100)
 # print("우리가 만난지 100일은", today + td)
 
-import byme
-byme.sign()
+print("깃허브에 추가해")
+print("됐니?")
